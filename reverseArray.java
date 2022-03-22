@@ -18,7 +18,7 @@ public class reverseArray
 	    }
 	    for(int i =0;i<n;i++)
 	    {
-	        System.out.print(b[i]+" "+" ");
+	        System.out.print(b[i]+" "+"my name");
 	    }
 	}
 }
