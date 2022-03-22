@@ -20,7 +20,7 @@ public static void main(String[] args) {
      System.out.print(count);
       for(int i = index-1;i >= 0;i--){
             if(binary[i]==1){
-                System.out.print(i);
+                System.out.print(i+" ");
             }
        // System.out.print(binary[i]);    
      }
