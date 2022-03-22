@@ -20,5 +20,6 @@ public class reverseArray
 	    {
 	        System.out.print(b[i]+" "+"my name");
 	    }
+		System.out.print(" completed ");
 	}
 }
